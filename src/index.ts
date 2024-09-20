@@ -7,7 +7,7 @@ const x2="Madame Jane Madame Jane Doe née le 3 avril 2010  "
 
 const liste=[['a'],['b'],['c']];
 
-
+console.log('test');
 
 /* const inp=document.querySelector('input')
 
